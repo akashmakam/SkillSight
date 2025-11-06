@@ -1,4 +1,3 @@
-# SkillSight
 # SkillSight: Mapping the Data Analyst Job Market
 
 ## 📊 Overview
